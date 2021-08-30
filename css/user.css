@@ -1,0 +1,27 @@
+/********************************************
+* User defines CSS jcrDevTeam
+********************************************/
+.def-block {
+   width: 100%;
+   background-color: #ffcc66;
+   color: white;
+   font-family: 'Pacifico', sans-serif;
+   border-radius: 10px;
+   text-align: left;
+
+
+}
+
+.def-block-eq {
+  width: 100%;
+  border-radius: 10px;
+  background-color: #ffffcc;
+  text-align: justify;
+  font-family: 'Pacifico', cursive;
+}
+
+
+
+.mySlides {display:none}
+.w3-left, .w3-right, .w3-badge {cursor:pointer}
+.w3-badge {height:13px;width:13px;padding:0}
