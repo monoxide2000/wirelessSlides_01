@@ -3,7 +3,7 @@
 ********************************************/
 .def-block {
    width: 100%;
-   background-color: #ffcc66;
+   background-color: #31572c;
    color: white;
    font-family: 'Pacifico', sans-serif;
    border-radius: 10px;
@@ -15,8 +15,9 @@
 .def-block-eq {
   width: 100%;
   border-radius: 10px;
-  background-color: #ffffcc;
+  background-color: hsla(87, 40%, 80%, 0.6);
   text-align: justify;
+  border-radius: 10px;
   font-family: 'Pacifico', cursive;
 }
 
